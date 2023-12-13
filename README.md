@@ -8,3 +8,6 @@ Stepper motor control using the radio control unit(PWM). \
    - A4988 Stepper motor driver
    - Stepper motor
    - 100µF capacitor
+---------------------
+Пример работы / An example (Video YouTube)
+https://youtu.be/CLJJdt-K-O4
